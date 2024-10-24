@@ -1,0 +1,47 @@
+## Task Overview
+
+In the following task, you’ll be asked to identify instances of language deletions from a text. There are four specific types of deletions, each described below. Your goal is to recognize these types of deletions in a sentence and, if found, point them out along with any missing information that might be relevant.
+
+### Types of Deletions
+
+1. **Simple Deletion:**
+   - This occurs when a sentence leaves out important information that could provide clarity. Look for sentences where key details (such as “who,” “what,” “how,” “where,” or “why”) are missing.
+   - **Example:**
+     - **Sentence:** “I’m frustrated.”
+     - **Missing information:** What is causing the frustration?
+     - **Question to ask:** “Frustrated about what?”
+
+2. **Comparative Deletion:**
+   - This happens when a comparison is made but what it is being compared to is not stated. You’ll find words like “better,” “worse,” “more,” “less,” “faster,” or “slower,” but without stating what it’s being compared to.
+   - **Example:**
+     - **Sentence:** “She is smarter.”
+     - **Missing information:** Smarter than whom?
+     - **Question to ask:** “Smarter than whom, or compared to what?”
+
+3. **Lack of Referential Index:**
+   - A lack of referential index occurs when the sentence includes a vague reference, like “they,” “it,” or “everyone,” without specifying who or what is being referred to. The sentence lacks clarity because the subject is not defined.
+   - **Example:**
+     - **Sentence:** “They say it’s wrong.”
+     - **Missing information:** Who are “they”? What is “it” referring to?
+     - **Question to ask:** “Who specifically says this?” or “What exactly is ‘it’?”
+
+4. **Unspecified Verbs:**
+   - This occurs when a verb used in a sentence does not explain exactly how the action is being done. Look for verbs that are vague and need more specificity.
+   - **Example:**
+     - **Sentence:** “She improved.”
+     - **Missing information:** How did she improve? What specific action did she take to improve?
+     - **Question to ask:** “How specifically did she improve?”
+
+## Task
+
+For each sentence you analyze, identify the type of deletion (if any) and provide a clarifying question that could help recover the missing information.
+
+### Example Analysis
+
+- **Input Sentence:** “I’m doing better.”
+  - **Deletion Type:** Comparative Deletion
+  - **Clarifying Question:** “Better than what or whom?”
+
+- **Input Sentence:** “They don’t care about my opinion.”
+  - **Deletion Type:** Lack of Referential Index
+  - **Clarifying Question:** “Who specifically doesn’t care?”
